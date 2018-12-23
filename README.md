@@ -15,3 +15,5 @@ Some of the engineering blogs to follow
 [Viki](https://www.openmymind.net/scaling-viki/Chapter-1-Introduction/)
 
 [API Design](https://restful-api-design.readthedocs.io/en/latest/intro.html)
+
+[Swiggy](https://bytes.swiggy.com/swiggylytics-5046978965dc)
